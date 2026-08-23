@@ -33,7 +33,7 @@ export default async function handler(req) {
         Authorization: `Bearer ${apiKey}`,
       },
       body: JSON.stringify({
-        model: "openai/gpt-20b",
+        model: "openai/gpt-20b.oss",
         messages,
         temperature: 0.7,
         max_tokens: 1024,
