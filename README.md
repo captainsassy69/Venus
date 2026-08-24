@@ -1,4 +1,4 @@
-# Aurora AI Chatbot — GitHub + Vercel Deployment Guide
+# Venus GitHub + Vercel Deployment Guide
 
 This project is a Groq-powered chatbot with a custom animated frontend, deployed as a **permanent, free, public link** using GitHub + Vercel — no Gradio, no Hugging Face paywall.
 
